@@ -6,6 +6,8 @@
 #include <MsgBoxConstants.au3>
 
 
+;~ teste de uso
+
 Global $ResolucaoTela = @DesktopWidth & " x " & @DesktopHeight
 Local $xP,$yP
 
